@@ -1,1 +1,1 @@
-# Preferences-of-users-age-gender-and-travel-regions
+TensorFlow可以用于对用户年龄和旅游景点偏好进行学习
